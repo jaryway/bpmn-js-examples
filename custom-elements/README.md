@@ -1,3 +1,5 @@
+# 此例子展示如何添加自定义元素，向工具栏添加元素、向弹出面板添加元素、
+
 # Custom Elements in bpmn-js
 
 A powerful feature provided by [bpmn-js](https://github.com/bpmn-io/bpmn-js) is the ability to create _custom elements_. Custom elements are ordinary BPMN 2.0 elements with domain-specific data, look, and feel. Use cases for such elements include:
